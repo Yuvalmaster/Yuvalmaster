@@ -21,7 +21,7 @@ I have a keen interest in the following fields:
 * Robotics
 
 ## Technical Background
-I possess strong technical skills in the following areas:
+I possess technical skills in the following areas:
 
 * Python
 * PyTorch
