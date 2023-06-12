@@ -37,7 +37,7 @@ I possess technical skills in the following areas:
 
 In addition to my formal education, I have self-taught myself Solidworks, C++, and Arduino, further expanding my technical skill set.
 
-# Repos
+## Repos
 The repositories showcases severals of my projects in various subjects, including deep learning, machine learning, robotics, data science, signal processing, image processing, graphical user interface (GUI) applications, object-oriented programming (OOP), algorithms, and more.
 
 Each repository is organized into folders, with each folder representing a specific project. The projects cover a wide range of topics and application. The folder structure is designed to provide easy navigation and access to project details.
