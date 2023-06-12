@@ -40,7 +40,7 @@ In addition to my formal education, I have self-taught myself Solidworks, C++, a
 # Repos
 The repositories showcases severals of my projects in various subjects, including deep learning, machine learning, robotics, data science, signal processing, image processing, graphical user interface (GUI) applications, object-oriented programming (OOP), algorithms, and more.
 
-The repository is organized into folders, with each folder representing a specific project. The projects cover a wide range of topics and application. The folder structure is designed to provide easy navigation and access to project details.
+Each repository is organized into folders, with each folder representing a specific project. The projects cover a wide range of topics and application. The folder structure is designed to provide easy navigation and access to project details.
 
 Within each project folder, you will find a readme.md file that provides details about the corresponding project.
 
