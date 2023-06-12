@@ -2,7 +2,8 @@
 My name is Yuval Argoetti, and I am a highly motivated and enthusiastic biomedical engineer. I am a self-learner and a team player who believes in hard work, persistence, and continuous learning to evolve and expand my knowledge while developing new skills.
 
 ## Education
-I pursued my undergraduate studies in Biomedical Engineering at Tel Aviv University from October 2019 to August 2023. During my education, I specialized in Machine & Deep Learning, Signal & Image Processing, and Robotics. I have gained valuable theoretical knowledge and practical skills in these areas, which have contributed to my proficiency in various technical domains.
+### B.C.e Biomedical Engineering at Tel Aviv University (October 2019 to August 2023). 
+During my education, I specialized in Machine & Deep Learning, Signal & Image Processing, and Robotics. I have gained valuable theoretical knowledge and practical skills in these areas, which have contributed to my proficiency in various technical domains.
 
 ## Field of Interests
 I have a keen interest in the following fields:
