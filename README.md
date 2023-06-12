@@ -41,14 +41,17 @@ In addition to my formal education, I have self-taught myself Solidworks, C++, a
 ### Deep & Machine Learning Projects
 During my academic journey, I have undertaken several deep learning and machine learning projects, including:
 
-- Created and trained PyTorch neural network models, such as Transformer for NLP and CNN for image classification. These projects showcase my expertise in deep learning and hands-on implementation.
+- Created and trained PyTorch neural network models, such as Transformer for NLP and CNN for image classification. These projects showcase my knowledge in deep learning and hands-on implementation.
 - Developed continuous monitoring systems involving data collection, sampling, filtering, feature extraction, feature selection, and classification. Notable projects in this domain include hand gesture prediction using gyroscope and accelerometer data from a wearable device and an activity prediction system utilizing data from multiple sensors of smartphones.
 
 ### Audible-Feedback Accessibility Device for Visually Impaired
-I have designed and developed a device that converts visual feedback to auditory feedback for home appliances, enabling visually impaired individuals to receive real-time program updates. This project involved the use of Arduino and demonstrated my ability to apply technical knowledge in developing innovative solutions.
+Designed and developed a device that converts visual feedback to auditory feedback for home appliances,
+enabling visually impaired individuals to receive real-time program updates.
+Project included Arduino & C++ programming, 3D printing, design, and assembly of electrical circuits &
+sensors.
 
 ## Hobbies
-Guitars, Music, Gaming, Traveling, Trekking
+Guitars 🎸, Music 🎵, Gaming 🎮, Traveling 🌍✈🧭, Trekking 🥾🧗🏔️🏕️
 
 ## Location
 Tel Aviv, Israel
