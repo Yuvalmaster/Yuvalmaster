@@ -1,4 +1,4 @@
-# About Me
+# About Me 🎸 🧑‍💻
 My name is Yuval Argoetti, and I am a highly motivated and enthusiastic biomedical engineer. I am a self-learner and a team player who believes in hard work, persistence, and continuous learning to evolve and expand my knowledge while developing new skills.
 
 ## Education
