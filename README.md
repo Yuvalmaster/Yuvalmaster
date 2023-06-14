@@ -16,6 +16,8 @@ I have a keen interest in the following fields:
 
 * Deep Learning
 * Machine Learning
+* Data Science
+* Big Data
 * Computer Vision
 * Signal Processing
 * Robotics
