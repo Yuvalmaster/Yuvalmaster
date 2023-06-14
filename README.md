@@ -1,7 +1,7 @@
 # About Me 🎸 🧑‍💻 🧗
 My name is Yuval Argoetti, and I am a highly motivated and enthusiastic biomedical engineer. 
 
-My goal in studying engineering is to gain knowledge in a variety of engineering fields, ranging from electronics and machine learning to data science, programming, physiology, mechanics, robotics, and beyond. I am passionate about exploring and developing new and exciting technologies that have the potential to make a positive impact in the world. Throughout my academic journey, I have acquired a diverse skill set, including programming, data science, machine learning, deep learning, electronics, robotics, signal processing, and image processing.
+My goal in studying engineering is to gain knowledge in a variety of engineering fields, ranging from electronics and machine learning to data science, programming, physiology, mechanics, robotics, and beyond. I am passionate about exploring and developing new and exciting technologies that have the potential to make a positive impact in the world. Throughout my academic journey, I have acquired a diverse skill set.
 
 I am enthusiastic about utilizing these tools to solve real-world problems and contribute to advancements in various industries.
 
