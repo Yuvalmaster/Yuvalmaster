@@ -37,7 +37,7 @@ I possess technical skills in the following areas:
 * Engineering Design
 * Risk Management
 
-In addition to my formal education, I have self-taught myself Solidworks, C++, and Arduino.
+In addition to my formal education, I have self-taught SOLIDWORKS, C++, and Arduino.
 
 ## Repos
 The repositories showcase severals of my projects in various subjects, including deep learning, machine learning, robotics, data science, signal processing, image processing, graphical user interface (GUI) applications, object-oriented programming (OOP), algorithms, and more.
